@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1234",
+        "brand": "Porsche",
+        "model": "911",
+        "mileage": 1000,
+        "year": 2018
+    },
+    {
+        "id": "1235",
+        "brand": "BMW",
+        "model": "X6",
+        "mileage": 2000,
+        "year": 2016
+    },
+    {
+        "id": "1236",
+        "brand": "Audi",
+        "model": "A4",
+        "mileage": 550,
+        "year": 2000
+    },
+    {
+        "id": "1237",
+        "brand": "Porsche",
+        "model": "Cayenee",
+        "mileage": 800,
+        "year": 2019
+    }
+]

@@ -1,0 +1,30 @@
+.carsPage {
+  padding: 2rem 4rem;
+}
+
+.carsPageHeadline {
+  text-align: center;
+  color: darkcyan;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.listItem {
+  padding: 0.5rem;
+  border: 1px solid darkcyan;
+  border-radius: 0.25rem;
+  margin: 0.75rem 0;
+}
+
+.itemDetails {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 2rem;
+  width: 50%;
+}
